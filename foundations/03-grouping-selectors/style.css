@@ -1,5 +1,9 @@
 .one {
-  background-color: black;
-  color: white;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
   font-weight: bold;
+}
+
+.two {
+  background-color: #ffff00;
 }
