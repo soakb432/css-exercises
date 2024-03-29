@@ -27,8 +27,8 @@ body {
   padding: 8px;
 }
 
-.title, .content, .button-container {
-  margin: 8px;
+.title, .content {
+  margin-bottom: 8px;
 }
 
 button {
