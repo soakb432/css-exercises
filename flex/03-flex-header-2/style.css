@@ -46,8 +46,13 @@ a {
   color: rebeccapurple;
 }
 
+.left, .right {
+  display: flex;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
+  display: flex;
 }
