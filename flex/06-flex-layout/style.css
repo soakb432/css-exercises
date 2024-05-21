@@ -41,11 +41,15 @@ a {
 
 .left-links, .right-links {
   display: flex;
-  justify-content: space-between;
 }
 
 .content {
   flex: 1 1 auto;
+}
+
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
 }
 
 .footer {
