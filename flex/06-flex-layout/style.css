@@ -58,6 +58,10 @@ a {
   padding: 16px;
 }
 
+button {
+  padding: 8px;
+}
+
 .footer {
   background: #eeeeee;
 }
