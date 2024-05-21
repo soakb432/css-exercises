@@ -45,7 +45,7 @@ a {
   justify-content: center;
   align-items: center;
   flex: 1 1 auto;
-  gap: 8px;
+  gap: 16px;
 }
 
 .left-links, .right-links {
