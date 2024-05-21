@@ -32,6 +32,8 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  display: flex;
+  gap: 16px;
 }
 
 a {
@@ -45,11 +47,6 @@ a {
   justify-content: center;
   align-items: center;
   flex: 1 1 auto;
-  gap: 16px;
-}
-
-.left-links, .right-links {
-  display: flex;
   gap: 16px;
 }
 
