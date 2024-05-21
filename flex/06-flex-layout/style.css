@@ -39,6 +39,11 @@ a {
   text-decoration: none;
 }
 
+.left-links, .right-links {
+  display: flex;
+  justify-content: space-between;
+}
+
 .content {
   flex: 1 1 auto;
 }
