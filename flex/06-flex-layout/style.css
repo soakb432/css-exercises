@@ -39,13 +39,17 @@ a {
   text-decoration: none;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1 1 auto;
+}
+
 .left-links, .right-links {
   display: flex;
   gap: 16px;
-}
-
-.content {
-  flex: 1 1 auto;
 }
 
 .header, .footer {
