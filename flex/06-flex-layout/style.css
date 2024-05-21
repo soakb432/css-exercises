@@ -41,6 +41,7 @@ a {
 
 .left-links, .right-links {
   display: flex;
+  gap: 16px;
 }
 
 .content {
