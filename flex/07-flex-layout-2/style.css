@@ -6,10 +6,6 @@ body {
   flex-direction: column;
 }
 
-body .content {
-  flex: 1 1 auto;
-}
-
 .header {
   height: 72px;
   background: darkmagenta;
@@ -23,6 +19,7 @@ body .content {
 
 .content {
   display: flex;
+  flex: 1;
 }
 
 .footer {
