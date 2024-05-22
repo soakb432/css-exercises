@@ -50,6 +50,7 @@ a {
 
 .cards {
   display: flex;
+  padding: 32px;
 }
 
 .card {
